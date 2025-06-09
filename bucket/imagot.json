@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/mlm-games/imagot/releases/download/0.2.5/imagot.exe",
-            "hash": "sha256:YOURHASHHERE"
+            "hash": "0000000000000000000000000000000000000000000000000000000000000000"
         }
     },
     "bin": [
@@ -20,8 +20,7 @@
             "imagot.exe",
             "Imagot Image Viewer",
             "",
-            "imagot.exe",
-            0
+            "imagot.ico"
         ]
     ],
     "pre_install": [
